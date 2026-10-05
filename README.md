@@ -15,8 +15,8 @@ requirements.txt
 | 1. Reading: HMC's Approach | not required | – |
 | 2.1 Summary Statistics | ✅ done | |
 | 2.2 Descriptive Analysis | ✅ done | |
-| 2.3 The MV Frontier | ✅ todo | |
-| 2.4 TIPS | ✅ todo | |
+| 2.3 The MV Frontier | ✅ done | |
+| 2.4 TIPS | ✅ done | |
 | 3. Allocations (EW / RP / MV) | ✅ done | |
 | 4–7. EXTRA | not required | – |
 
